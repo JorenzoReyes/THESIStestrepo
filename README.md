@@ -227,12 +227,6 @@ normalized, logs = normalizer.normalize_text(text, context={"debug": True})
 
 This project is developed for academic research purposes. Please ensure proper attribution when using or modifying the code.
 
-## 👥 Authors
-
-- **Primary Developer**: [Your Name]
-- **Institution**: [Your Institution]
-- **Project**: Filipino Text Normalization Research
-
 ## 📞 Support
 
 For questions, issues, or contributions:
